@@ -1,0 +1,43 @@
+<button type="button" class="btn btn-default">Default</button>
+ <a class="btn btn-default" href="menu.html" role="button">Link</a>
+
+.weekday-header {
+  text-align: center;
+}
+
+body {
+  background-image: url("M3.JPEG.png");
+}
+
+.class M1 {
+  background-image: url("M2.jpeg.png")
+}
+
+.nav-colours.nav-colours.nav-colours.nav-colours a {
+  color: silver;
+}
+
+.nav-colours nav {
+  color: white;
+}
+
+.class b {
+  color: red;
+  margin: auto;
+}
+
+.class col-6 {
+  text-align: center;
+}
+
+.class social-media {
+  text-align:center;
+}
+
+.class form {
+  margin-left: 400px
+}
+
+.class M2 {
+  color: black
+}
