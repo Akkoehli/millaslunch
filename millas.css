@@ -6,7 +6,7 @@
 }
 
 body {
-  background-image: url("M1.jpeg.png");
+  background-image: url("M3.JPEG.png");
 }
 
 .class M1 {
@@ -32,4 +32,12 @@ body {
 
 .class social-media {
   text-align:center;
+}
+
+.class form {
+  margin-left: 400px
+}
+
+.class M2 {
+  color: black
 }
